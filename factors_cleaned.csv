@@ -1,0 +1,837 @@
+Gender,Age,hours_studied,economic_stutus,mothers_education,fathers_education,result
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Secondary,A+
+Male,22-24,I study less than 4 hours a day,Poor,Illiterate,Secondary,A-
+Male,22-24,"I Study 4 hours daily on average, I study more than 4 hours a day",lower-middle,Illiterate,Illiterate,B-
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A-
+Male,22-24,I study more than 4 hours a day,Mid - middle,college / University,college / University,C
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,C
+Male,22-24,I study more than 4 hours a day,lower-middle,college / University,college / University,B
+Male,19-21,I Study 4 hours daily on average,Mid - middle,Secondary,Illiterate,A+
+Male,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A+
+Male,22-24,I study less than 4 hours a day,Mid - middle,Illiterate,Secondary,A-
+Female,16-18,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,college / University,college / University,B+
+Male,19-21,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Primary,B-
+Male,22-24,I study less than 4 hours a day,Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,A-
+Male,19-21,I study more than 4 hours a day,Poor,Primary,Illiterate,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,college / University,college / University,A
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,B+
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,B+
+Female,19-21,I study less than 4 hours a day,Mid - middle,Primary,Primary,B-
+Female,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Female,22-24,I study only when there is exam,Rich,Secondary,Secondary,A
+Female,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,B
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Primary,A-
+Male,28-30,"I copy the assignment of friends, I Study 4 hours daily on average, I study only when there is exam",Mid - middle,Secondary,Secondary,A+
+Male,28-30,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Primary,A
+Male,25-27,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day",lower-middle,Primary,Primary,A-
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,B+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Primary,C+
+Male,19-21,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,A
+Male,19-21,I study less than 4 hours a day,lower-middle,Illiterate,Illiterate,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,Primary,Secondary,B
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,C+
+Male,22-24,I Study 4 hours daily on average,lower-middle,Secondary,college / University,A
+Male,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A
+Male,22-24,"I prefer social media more than study, I study more than 4 hours a day",lower-middle,Secondary,college / University,A
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,A+
+Male,22-24,I prefer social media more than study,lower-middle,Primary,Primary,A-
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,B+
+Male,22-24,I prefer social media more than study,lower-middle,Illiterate,Primary,B
+Male,22-24,I copy the assignment of friends,Poor,Primary,Primary,A
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study, I study more than 4 hours a day",Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Illiterate,Primary,A
+Male,22-24,"I prefer social media more than study, I study less than 4 hours a day",Mid - middle,college / University,college / University,B+
+Male,22-24,I Study 4 hours daily on average,Poor,Illiterate,Illiterate,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Secondary,Secondary,A-
+Male,25-27,"I study only when there is exam, I study more than 4 hours a day",lower-middle,Primary,Primary,A
+Male,19-21,I study only when there is exam,Mid - middle,Secondary,Secondary,B+
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,A-
+Female,19-21,"I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,19-21,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,B-
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam",Mid - middle,Primary,Secondary,B
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Poor,Primary,Secondary,B
+Female,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,B-
+Male,25-27,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,A-
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Male,22-24,I copy the assignment of friends,lower-middle,Secondary,Primary,C
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,A-
+Male,22-24,I Study 4 hours daily on average,lower-middle,Secondary,Secondary,A
+Male,22-24,I copy the assignment of friends,lower-middle,Secondary,Primary,B
+Male,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,Primary,C+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Poor,college / University,college / University,B-
+Female,19-21,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,B+
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,B+
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A
+Male,19-21,"I prefer social media more than study, I study only when there is exam",Poor,Secondary,Illiterate,A+
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,B
+Male,19-21,"I study only when there is exam, I study less than 4 hours a day",Poor,Primary,Primary,A
+Male,19-21,I study only when there is exam,lower-middle,Secondary,college / University,A-
+Male,19-21,"I am disturbed when studying, I prefer social media more than study",Mid - middle,Secondary,college / University,B
+Female,22-24,"I prefer social media more than study, I study only when there is exam",Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,A-
+Male,19-21,I study only when there is exam,Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,Poor,Primary,Secondary,A
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I study more than 4 hours a day",lower-middle,Illiterate,Illiterate,B
+Female,19-21,I study only when there is exam,lower-middle,college / University,college / University,B+
+Female,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I study more than 4 hours a day",lower-middle,Secondary,college / University,A
+Male,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Male,19-21,I study less than 4 hours a day,lower-middle,Illiterate,Illiterate,A
+Female,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A-
+Female,19-21,I study only when there is exam,Mid - middle,Secondary,college / University,A+
+Male,22-24,I copy the assignment of friends,Poor,college / University,college / University,A
+Female,19-21,"I prefer social media more than study, I study only when there is exam",Mid - middle,Illiterate,Illiterate,A
+Female,19-21,I study more than 4 hours a day,Mid - middle,Primary,Primary,A-
+Male,22-24,I study less than 4 hours a day,lower-middle,Primary,Secondary,C+
+Male,19-21,I study more than 4 hours a day,Poor,Primary,Illiterate,A+
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study",lower-middle,Primary,Secondary,A+
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,B+
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study more than 4 hours a day",Mid - middle,Secondary,Secondary,A-
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",lower-middle,Secondary,Secondary,A-
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study",Poor,Secondary,college / University,C+
+Male,19-21,I copy the assignment of friends,Poor,Illiterate,Illiterate,A
+Male,19-21,I study only when there is exam,lower-middle,Secondary,Secondary,A+
+Male,22-24,I study more than 4 hours a day,Mid - middle,Illiterate,Illiterate,B
+Female,<16,"I prefer social media more than study, I study more than 4 hours a day",Mid - middle,Secondary,Secondary,A
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study more than 4 hours a day",lower-middle,Secondary,college / University,B+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,A-
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam",Poor,Primary,Secondary,D
+Male,22-24,I prefer social media more than study,Mid - middle,Illiterate,Primary,A-
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study, I study more than 4 hours a day",lower-middle,Secondary,college / University,A-
+Male,22-24,I study only when there is exam,Poor,Primary,Primary,B+
+Male,28-30,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Primary,B
+Male,22-24,I Study 4 hours daily on average,Poor,Secondary,Secondary,A-
+Male,25-27,I study only when there is exam,lower-middle,Secondary,Primary,A-
+Male,22-24,I copy the assignment of friends,Mid - middle,Primary,Primary,A
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Secondary,A
+Male,22-24,I study only when there is exam,Mid - middle,Primary,Primary,A
+Male,22-24,"I study only when there is exam, I study more than 4 hours a day",Mid - middle,Secondary,Secondary,A
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Primary,A+
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Male,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Poor,Primary,Secondary,A
+Male,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Poor,Secondary,college / University,A+
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,college / University,A-
+Male,19-21,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A+
+Male,19-21,I prefer social media more than study,lower-middle,Primary,Illiterate,A
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,F
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A-
+Male,19-21,I study only when there is exam,lower-middle,Primary,Primary,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A-
+Male,19-21,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,college / University,A+
+Male,22-24,"I study only when there is exam, I study more than 4 hours a day",Poor,Primary,Primary,A
+Female,19-21,I study only when there is exam,Rich,college / University,Primary,A+
+Male,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Poor,Primary,college / University,A
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,college / University,B
+Male,19-21,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,B+
+Male,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study less than 4 hours a day",Poor,Illiterate,Primary,A+
+Male,19-21,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,D
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,college / University,A
+Female,19-21,I study less than 4 hours a day,Mid - middle,college / University,college / University,A
+Male,19-21,"I study only when there is exam, I study more than 4 hours a day",Mid - middle,college / University,Secondary,C+
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A
+Female,22-24,I Study 4 hours daily on average,lower-middle,Primary,Secondary,A+
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,B+
+Male,19-21,I study less than 4 hours a day,Mid - middle,Primary,Primary,A+
+Male,19-21,I study only when there is exam,lower-middle,college / University,college / University,A+
+Female,22-24,I Study 4 hours daily on average,lower-middle,college / University,college / University,B
+Male,19-21,I study more than 4 hours a day,lower-middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Male,19-21,"I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,Secondary,A+
+Male,22-24,I Study 4 hours daily on average,lower-middle,Secondary,Illiterate,A
+Male,19-21,"I study more than 4 hours a day, I study less than 4 hours a day",Mid - middle,Secondary,Primary,A+
+Female,19-21,I study less than 4 hours a day,lower-middle,Secondary,Secondary,A
+Male,19-21,I Study 4 hours daily on average,Poor,Secondary,Secondary,A
+Male,19-21,I study less than 4 hours a day,Mid - middle,Illiterate,Illiterate,B+
+Female,19-21,"I study only when there is exam, I study more than 4 hours a day",lower-middle,Secondary,Primary,A+
+Female,19-21,I study more than 4 hours a day,lower-middle,Illiterate,Secondary,A+
+Male,19-21,I study more than 4 hours a day,Mid - middle,Secondary,college / University,A
+Male,19-21,"I Study 4 hours daily on average, I study more than 4 hours a day",lower-middle,Primary,Illiterate,A+
+Male,19-21,"I copy the assignment of friends, I prefer social media more than study, I study less than 4 hours a day",lower-middle,Secondary,college / University,A
+Male,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Female,22-24,I study less than 4 hours a day,lower-middle,Primary,Primary,A
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,19-21,I study only when there is exam,Mid - middle,Illiterate,Illiterate,A
+Female,22-24,I study less than 4 hours a day,lower-middle,college / University,college / University,A-
+Male,19-21,I am disturbed when studying,lower-middle,Secondary,college / University,A
+Female,19-21,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,22-24,I Study 4 hours daily on average,lower-middle,Primary,Primary,A+
+Female,19-21,I study less than 4 hours a day,Poor,Primary,Primary,A
+Female,19-21,I study less than 4 hours a day,Mid - middle,Primary,Primary,A
+Male,19-21,I Study 4 hours daily on average,lower-middle,Primary,Primary,A
+Male,22-24,I study only when there is exam,Poor,Illiterate,Primary,A
+Male,19-21,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,A+
+Male,19-21,I prefer social media more than study,lower-middle,Secondary,college / University,A
+Male,22-24,I am disturbed when studying,Mid - middle,college / University,college / University,A
+Female,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,B-
+Female,19-21,I copy the assignment of friends,Mid - middle,college / University,college / University,A
+Female,19-21,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A-
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,22-24,I copy the assignment of friends,lower-middle,Illiterate,Illiterate,A
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day",Mid - middle,Secondary,Secondary,A+
+Male,28-30,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A-
+Male,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A+
+Female,19-21,I study less than 4 hours a day,Mid - middle,college / University,college / University,B+
+Female,25-27,I study less than 4 hours a day,Mid - middle,college / University,college / University,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Female,22-24,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,B+
+Female,22-24,I Study 4 hours daily on average,lower-middle,Secondary,Secondary,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,B+
+Female,19-21,I study only when there is exam,Mid - middle,Secondary,college / University,A
+Female,22-24,I study more than 4 hours a day,Mid - middle,college / University,college / University,A
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,A
+Female,25-27,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,A-
+Male,19-21,I study less than 4 hours a day,Mid - middle,Illiterate,college / University,A
+Male,22-24,I copy the assignment of friends,lower-middle,Primary,Primary,A
+Female,19-21,I study only when there is exam,lower-middle,Primary,Primary,A-
+Female,22-24,I study more than 4 hours a day,lower-middle,Secondary,Primary,A
+Male,22-24,I am disturbed when studying,lower-middle,Primary,Primary,A
+Female,19-21,I study only when there is exam,Mid - middle,college / University,college / University,B+
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A-
+Female,19-21,I Study 4 hours daily on average,Poor,Secondary,college / University,A
+Female,22-24,"I am disturbed when studying, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,A
+Male,22-24,I study more than 4 hours a day,Mid - middle,college / University,college / University,B
+Male,22-24,I study more than 4 hours a day,Poor,Illiterate,Illiterate,A
+Male,19-21,"I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,Secondary,A+
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,A
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Primary,A
+Female,19-21,I prefer social media more than study,Rich,Secondary,Secondary,A
+Male,22-24,I study only when there is exam,lower-middle,Illiterate,Secondary,B-
+Male,22-24,I study only when there is exam,Mid - middle,Primary,Illiterate,B+
+Male,22-24,I study only when there is exam,Mid - middle,Primary,college / University,A-
+Male,22-24,I study only when there is exam,Mid - middle,Illiterate,Primary,A
+Male,22-24,I Study 4 hours daily on average,lower-middle,Illiterate,Primary,A
+Female,19-21,I prefer social media more than study,Mid - middle,Illiterate,Primary,A
+Male,22-24,I am disturbed when studying,Mid - middle,Primary,Secondary,A+
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,college / University,A
+Male,22-24,I study only when there is exam,Mid - middle,Illiterate,Primary,B+
+Male,22-24,I study less than 4 hours a day,Mid - middle,Secondary,college / University,B+
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",Rich,college / University,college / University,B+
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study",Mid - middle,Illiterate,Secondary,B-
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Primary,college / University,A
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,B+
+Male,19-21,"I am disturbed when studying, I study only when there is exam",Poor,Primary,Illiterate,A
+Male,19-21,I Study 4 hours daily on average,lower-middle,Primary,Primary,A+
+Male,22-24,I prefer social media more than study,lower-middle,Primary,Primary,C+
+Male,19-21,I prefer social media more than study,Mid - middle,college / University,college / University,A
+Female,19-21,I prefer social media more than study,Mid - middle,Primary,Primary,A
+Male,22-24,I copy the assignment of friends,lower-middle,Primary,Secondary,A-
+Female,19-21,I study only when there is exam,lower-middle,Primary,Secondary,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Primary,college / University,A+
+Male,22-24,I prefer social media more than study,lower-middle,Primary,college / University,A+
+Female,19-21,I study more than 4 hours a day,Mid - middle,Primary,Secondary,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,college / University,college / University,A
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying",lower-middle,Secondary,college / University,B
+Male,25-27,I study more than 4 hours a day,lower-middle,Secondary,Secondary,A
+Male,22-24,I copy the assignment of friends,lower-middle,college / University,college / University,A
+Male,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day, I study less than 4 hours a day",Poor,Illiterate,Illiterate,A+
+Male,22-24,"I prefer social media more than study, I study only when there is exam",lower-middle,college / University,college / University,A
+Male,22-24,I study less than 4 hours a day,Poor,college / University,college / University,B+
+Male,25-27,I study more than 4 hours a day,Mid - middle,Primary,Secondary,A+
+Male,25-27,I study less than 4 hours a day,Mid - middle,college / University,college / University,B
+Female,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Primary,Secondary,A
+Male,25-27,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,22-24,"I am disturbed when studying, I study only when there is exam",lower-middle,Secondary,college / University,A-
+Male,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,college / University,college / University,D
+Male,22-24,"I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,25-27,"I Study 4 hours daily on average, I study only when there is exam, I study more than 4 hours a day",lower-middle,Secondary,Primary,B+
+Male,19-21,"I Study 4 hours daily on average, I study more than 4 hours a day",Mid - middle,college / University,Secondary,A+
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Primary,Primary,B+
+Female,22-24,I study more than 4 hours a day,lower-middle,Illiterate,Illiterate,A-
+Female,19-21,I Study 4 hours daily on average,lower-middle,Secondary,Primary,A
+Female,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Secondary,A-
+Female,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,A
+Male,28-30,I Study 4 hours daily on average,Mid - middle,Secondary,Secondary,B+
+Female,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,B+
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Female,22-24,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Secondary,A
+Female,<16,I study more than 4 hours a day,Mid - middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,A+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A
+Male,25-27,I study more than 4 hours a day,Poor,Primary,Secondary,B+
+Male,19-21,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,A
+Male,25-27,I Study 4 hours daily on average,lower-middle,Secondary,Secondary,A
+Male,28-30,"I copy the assignment of friends, I study more than 4 hours a day, I study less than 4 hours a day",Poor,Illiterate,Illiterate,B-
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam, I study more than 4 hours a day",Mid - middle,Secondary,Primary,A
+Female,19-21,I Study 4 hours daily on average,lower-middle,Primary,Secondary,A
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I study less than 4 hours a day",lower-middle,Illiterate,Illiterate,B
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A
+Female,22-24,I Study 4 hours daily on average,Mid - middle,Illiterate,Primary,A-
+Male,22-24,I study less than 4 hours a day,Mid - middle,Illiterate,Illiterate,A
+Male,22-24,I Study 4 hours daily on average,lower-middle,Primary,Primary,A-
+Female,19-21,I study more than 4 hours a day,Mid - middle,college / University,college / University,A
+Male,25-27,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam",Mid - middle,Secondary,college / University,B
+Male,25-27,"I copy the assignment of friends, I study less than 4 hours a day",Mid - middle,Primary,Primary,B+
+Male,25-27,"I Study 4 hours daily on average, I am disturbed when studying, I study less than 4 hours a day",lower-middle,Primary,college / University,A
+Male,22-24,"I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,25-27,I study less than 4 hours a day,lower-middle,Secondary,college / University,A
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Male,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,A-
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average",Mid - middle,college / University,college / University,A
+Male,19-21,I study only when there is exam,Poor,Primary,Secondary,A-
+Male,25-27,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Primary,A
+Female,19-21,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",Rich,college / University,college / University,F
+Male,22-24,I study more than 4 hours a day,lower-middle,Secondary,college / University,A
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Illiterate,B-
+Male,22-24,I study only when there is exam,lower-middle,Primary,college / University,A
+Female,22-24,"I am disturbed when studying, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A
+Male,22-24,I copy the assignment of friends,lower-middle,Illiterate,Primary,B-
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A-
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Primary,A-
+Male,22-24,"I prefer social media more than study, I study only when there is exam",lower-middle,Secondary,Secondary,A
+Male,22-24,I copy the assignment of friends,lower-middle,Primary,Primary,B-
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,B
+Male,22-24,I copy the assignment of friends,lower-middle,college / University,college / University,B
+Male,22-24,I study more than 4 hours a day,Mid - middle,Illiterate,Illiterate,A
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study, I study less than 4 hours a day",lower-middle,Primary,Secondary,A
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,A+
+Male,22-24,I study more than 4 hours a day,Mid - middle,Secondary,college / University,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Primary,A
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,B+
+Male,22-24,I Study 4 hours daily on average,lower-middle,Primary,Secondary,B+
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A+
+Male,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,19-21,I copy the assignment of friends,Poor,college / University,college / University,A
+Female,19-21,I Study 4 hours daily on average,lower-middle,college / University,college / University,A+
+Female,19-21,I study only when there is exam,lower-middle,Secondary,college / University,A-
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,college / University,A
+Male,22-24,"I Study 4 hours daily on average, I study more than 4 hours a day",Mid - middle,Secondary,college / University,A+
+Male,19-21,"I prefer social media more than study, I study more than 4 hours a day",lower-middle,Secondary,college / University,A+
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,Primary,B+
+Female,19-21,I study only when there is exam,Mid - middle,Secondary,college / University,A
+Female,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A
+Male,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Male,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Male,19-21,I Study 4 hours daily on average,lower-middle,Secondary,Illiterate,A+
+Male,19-21,I Study 4 hours daily on average,lower-middle,Secondary,Illiterate,A+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,19-21,I study more than 4 hours a day,lower-middle,Illiterate,Illiterate,A-
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,B
+Male,22-24,I Study 4 hours daily on average,Rich,Illiterate,college / University,A-
+Male,19-21,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,F
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day, I study less than 4 hours a day",lower-middle,Primary,Primary,A
+Male,22-24,"I Study 4 hours daily on average, I study less than 4 hours a day",lower-middle,Secondary,Primary,A
+Male,19-21,I copy the assignment of friends,lower-middle,Secondary,Secondary,A+
+Male,19-21,I study only when there is exam,lower-middle,Secondary,college / University,A+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam",lower-middle,Secondary,college / University,A
+Female,22-24,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A-
+Male,22-24,I study less than 4 hours a day,Poor,Secondary,Secondary,A
+Male,22-24,I study more than 4 hours a day,lower-middle,Secondary,college / University,A-
+Male,19-21,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,college / University,A+
+Female,22-24,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,B+
+Male,22-24,"I am disturbed when studying, I study only when there is exam",lower-middle,Secondary,college / University,B-
+Female,22-24,I Study 4 hours daily on average,Mid - middle,college / University,Secondary,A
+Female,28-30,"I Study 4 hours daily on average, I study only when there is exam",lower-middle,Primary,Primary,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",Poor,Secondary,Secondary,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Secondary,Secondary,A+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A-
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Illiterate,A
+Female,22-24,"I copy the assignment of friends, I study less than 4 hours a day",Mid - middle,Primary,Primary,A
+Female,19-21,I study more than 4 hours a day,lower-middle,Secondary,Secondary,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Primary,B
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Female,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Poor,Secondary,Secondary,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Illiterate,Primary,B
+Female,22-24,"I copy the assignment of friends, I study less than 4 hours a day",lower-middle,Secondary,Secondary,A
+Female,22-24,I study more than 4 hours a day,lower-middle,Secondary,college / University,A
+Female,22-24,I study more than 4 hours a day,lower-middle,Illiterate,Illiterate,A
+Male,22-24,I study less than 4 hours a day,Mid - middle,Primary,college / University,A-
+Female,22-24,I study more than 4 hours a day,Mid - middle,Illiterate,Illiterate,A+
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I prefer social media more than study, I study only when there is exam",lower-middle,Illiterate,Primary,A
+Male,19-21,I study more than 4 hours a day,Mid - middle,Primary,Primary,A
+Female,22-24,"I study only when there is exam, I study more than 4 hours a day",lower-middle,Illiterate,Secondary,A
+Male,22-24,I study less than 4 hours a day,Mid - middle,Illiterate,Illiterate,B
+Male,22-24,I copy the assignment of friends,Mid - middle,Illiterate,Illiterate,B
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Secondary,Secondary,A+
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam",Mid - middle,Primary,Secondary,A-
+Male,19-21,"I am disturbed when studying, I prefer social media more than study, I study less than 4 hours a day",Poor,Illiterate,Illiterate,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study",lower-middle,Illiterate,Primary,A-
+Female,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Female,19-21,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Male,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study",lower-middle,Illiterate,college / University,A-
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A-
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study",lower-middle,Illiterate,Illiterate,A-
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam",Poor,Primary,Primary,A+
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Male,25-27,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Primary,A
+Male,25-27,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam",lower-middle,Secondary,Primary,A
+Female,22-24,"I Study 4 hours daily on average, I study only when there is exam",Mid - middle,Primary,Secondary,A
+Female,22-24,I prefer social media more than study,Poor,Illiterate,Primary,A+
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Secondary,A-
+Female,22-24,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A-
+Male,22-24,"I prefer social media more than study, I study only when there is exam",lower-middle,Illiterate,Illiterate,B
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study",Mid - middle,Secondary,college / University,A-
+Male,22-24,I study more than 4 hours a day,Mid - middle,Illiterate,Illiterate,A
+Male,>30,I prefer social media more than study,Rich,college / University,college / University,A+
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,B+
+Male,19-21,I study less than 4 hours a day,lower-middle,Secondary,college / University,A
+Male,19-21,"I study only when there is exam, I study more than 4 hours a day, I study less than 4 hours a day",Mid - middle,college / University,Secondary,A
+Female,19-21,I Study 4 hours daily on average,Poor,college / University,Illiterate,A
+Male,19-21,I study less than 4 hours a day,Mid - middle,Primary,Primary,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study more than 4 hours a day",lower-middle,Primary,Illiterate,A
+Female,19-21,I study less than 4 hours a day,lower-middle,Secondary,Secondary,A+
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Secondary,A-
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study less than 4 hours a day",lower-middle,Primary,college / University,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,Illiterate,Secondary,B
+Male,25-27,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,B-
+Female,22-24,I study more than 4 hours a day,lower-middle,Secondary,Secondary,A+
+Male,22-24,I study more than 4 hours a day,lower-middle,college / University,college / University,A
+Female,19-21,"I am disturbed when studying, I study only when there is exam",Mid - middle,Primary,Primary,A
+Male,22-24,I study only when there is exam,Mid - middle,Primary,Secondary,B-
+Female,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,B-
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,C+
+Male,22-24,"I am disturbed when studying, I study less than 4 hours a day",lower-middle,Secondary,Secondary,C+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,B
+Male,22-24,"I am disturbed when studying, I study less than 4 hours a day",Poor,Secondary,Primary,B-
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Secondary,B
+Male,25-27,"I Study 4 hours daily on average, I study only when there is exam",Mid - middle,Secondary,college / University,B+
+Female,19-21,"I copy the assignment of friends, I study less than 4 hours a day",lower-middle,Primary,Secondary,B-
+Male,25-27,"I study only when there is exam, I study more than 4 hours a day",Mid - middle,Secondary,Secondary,A-
+Male,22-24,"I Study 4 hours daily on average, I study more than 4 hours a day",Mid - middle,Primary,Secondary,B+
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,B+
+Male,22-24,I study less than 4 hours a day,Poor,Secondary,Primary,B
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,B-
+Male,22-24,"I am disturbed when studying, I prefer social media more than study",Mid - middle,Primary,Secondary,C+
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,B+
+Female,22-24,I study only when there is exam,Mid - middle,Primary,Primary,A
+Female,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,D
+Female,22-24,I am disturbed when studying,Mid - middle,Secondary,Secondary,C+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Illiterate,Illiterate,A
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",lower-middle,Secondary,Secondary,A-
+Male,19-21,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A
+Male,19-21,I study less than 4 hours a day,lower-middle,Secondary,college / University,A+
+Male,19-21,I study more than 4 hours a day,Mid - middle,Secondary,college / University,A
+Female,22-24,"I am disturbed when studying, I study less than 4 hours a day",lower-middle,Primary,college / University,A-
+Male,22-24,I Study 4 hours daily on average,Poor,Illiterate,Illiterate,A+
+Female,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A-
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Poor,college / University,college / University,A
+Female,19-21,I study less than 4 hours a day,lower-middle,Secondary,college / University,A
+Female,22-24,"I am disturbed when studying, I study only when there is exam",Mid - middle,Secondary,Secondary,A
+Male,22-24,I Study 4 hours daily on average,lower-middle,Primary,Secondary,A-
+Male,19-21,I study less than 4 hours a day,lower-middle,Secondary,college / University,A+
+Male,22-24,I Study 4 hours daily on average,lower-middle,Secondary,Primary,A
+Male,22-24,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A-
+Female,22-24,"I copy the assignment of friends, I Study 4 hours daily on average",Mid - middle,college / University,college / University,A
+Male,19-21,"I Study 4 hours daily on average, I study more than 4 hours a day",lower-middle,college / University,college / University,A
+Female,22-24,I study only when there is exam,Poor,college / University,Secondary,A
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study less than 4 hours a day",lower-middle,Primary,Secondary,B+
+Male,22-24,I study only when there is exam,Poor,college / University,college / University,A-
+Male,19-21,I prefer social media more than study,lower-middle,Primary,college / University,F
+Female,22-24,"I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,B
+Male,22-24,"I copy the assignment of friends, I study only when there is exam",Poor,Secondary,Secondary,A+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,Secondary,college / University,D
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,Secondary,A-
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Primary,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Primary,A
+Male,22-24,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Male,19-21,I copy the assignment of friends,lower-middle,college / University,college / University,A-
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Secondary,B
+Male,22-24,I study less than 4 hours a day,lower-middle,Primary,Primary,A
+Male,22-24,I study less than 4 hours a day,Poor,Illiterate,Illiterate,A
+Male,22-24,I copy the assignment of friends,lower-middle,college / University,college / University,A-
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,B+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A-
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,A-
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,A
+Female,19-21,I Study 4 hours daily on average,lower-middle,college / University,college / University,A
+Male,22-24,I study less than 4 hours a day,lower-middle,college / University,college / University,B+
+Male,22-24,"I copy the assignment of friends, I study less than 4 hours a day",Poor,college / University,college / University,A
+Female,19-21,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,A+
+Male,22-24,I study only when there is exam,Mid - middle,Primary,Primary,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Primary,A-
+Male,19-21,I Study 4 hours daily on average,lower-middle,Secondary,Primary,A
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,B
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Primary,A-
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Primary,A
+Female,22-24,I Study 4 hours daily on average,Mid - middle,Secondary,Secondary,A
+Male,22-24,"I am disturbed when studying, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,19-21,I Study 4 hours daily on average,lower-middle,Secondary,college / University,A-
+Male,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A-
+Male,22-24,"I am disturbed when studying, I study less than 4 hours a day",Mid - middle,college / University,college / University,B+
+Female,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A
+Female,19-21,I study only when there is exam,Mid - middle,Primary,Secondary,A-
+Male,22-24,"I study more than 4 hours a day, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A
+Female,19-21,I study less than 4 hours a day,Rich,college / University,college / University,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,Primary,Primary,B+
+Male,19-21,I study only when there is exam,Poor,Illiterate,Illiterate,A-
+Male,19-21,I Study 4 hours daily on average,Poor,college / University,college / University,A+
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A+
+Male,22-24,I copy the assignment of friends,lower-middle,Primary,Primary,A
+Male,19-21,I copy the assignment of friends,lower-middle,Primary,Primary,A+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",lower-middle,Illiterate,Illiterate,B+
+Male,19-21,"I copy the assignment of friends, I am disturbed when studying",Mid - middle,Secondary,Secondary,A+
+Male,25-27,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Poor,Primary,Primary,A
+Male,19-21,I study more than 4 hours a day,Mid - middle,Secondary,college / University,A
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,A
+Female,22-24,"I Study 4 hours daily on average, I study only when there is exam, I study more than 4 hours a day",lower-middle,Primary,Primary,A
+Female,22-24,I study more than 4 hours a day,lower-middle,Illiterate,Primary,A
+Male,19-21,"I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,A
+Female,22-24,I study more than 4 hours a day,lower-middle,Secondary,Primary,A-
+Male,22-24,I study less than 4 hours a day,Mid - middle,college / University,Secondary,A
+Male,22-24,I study less than 4 hours a day,Poor,Primary,Secondary,B+
+Female,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,19-21,I study less than 4 hours a day,Mid - middle,Secondary,college / University,A+
+Male,22-24,"I Study 4 hours daily on average, I am disturbed when studying",lower-middle,Secondary,Secondary,A-
+Female,19-21,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Female,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A-
+Male,19-21,I Study 4 hours daily on average,Mid - middle,Primary,Primary,A
+Male,22-24,I study less than 4 hours a day,lower-middle,Illiterate,Primary,A-
+Male,22-24,"I am disturbed when studying, I study less than 4 hours a day",Poor,Primary,Illiterate,B+
+Female,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,Primary,Primary,B+
+Female,19-21,I copy the assignment of friends,lower-middle,Primary,Secondary,A
+Male,19-21,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Illiterate,Illiterate,A-
+Female,22-24,I copy the assignment of friends,lower-middle,Primary,Secondary,A
+Male,19-21,I study only when there is exam,Mid - middle,college / University,college / University,B
+Male,22-24,I copy the assignment of friends,lower-middle,college / University,Secondary,A+
+Female,22-24,I study only when there is exam,lower-middle,Illiterate,Primary,A
+Male,22-24,I study only when there is exam,lower-middle,Primary,Secondary,A-
+Female,22-24,"I Study 4 hours daily on average, I study more than 4 hours a day",lower-middle,Primary,Primary,A-
+Male,22-24,I study only when there is exam,Poor,Illiterate,Primary,A-
+Female,22-24,I am disturbed when studying,lower-middle,Illiterate,Primary,B
+Male,22-24,I study more than 4 hours a day,Mid - middle,Illiterate,Secondary,A
+Male,22-24,I prefer social media more than study,Poor,Primary,Secondary,A-
+Male,22-24,I am disturbed when studying,lower-middle,Primary,Secondary,B
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,Primary,B+
+Female,19-21,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,B+
+Female,22-24,I study only when there is exam,lower-middle,college / University,college / University,A+
+Female,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,19-21,I am disturbed when studying,Poor,college / University,college / University,F
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,B+
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,Secondary,A
+Male,19-21,I study only when there is exam,Mid - middle,Secondary,college / University,A+
+Male,22-24,I study only when there is exam,Poor,college / University,college / University,A+
+Male,22-24,I study only when there is exam,Poor,college / University,college / University,A+
+Female,19-21,I study less than 4 hours a day,Mid - middle,Primary,Primary,B-
+Female,19-21,I study only when there is exam,Mid - middle,Primary,Primary,A
+Female,22-24,I study only when there is exam,Rich,Secondary,Secondary,A
+Male,19-21,I Study 4 hours daily on average,Mid - middle,Primary,Primary,A-
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Female,19-21,"I copy the assignment of friends, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,28-30,I study more than 4 hours a day,Rich,college / University,Secondary,A+
+Female,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Primary,A
+Female,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,college / University,A-
+Female,19-21,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Primary,A
+Female,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A
+Female,19-21,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Male,19-21,I study more than 4 hours a day,Mid - middle,Primary,college / University,A+
+Female,19-21,"I am disturbed when studying, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A+
+Male,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day",Mid - middle,Secondary,college / University,A
+Male,19-21,I study only when there is exam,Mid - middle,Secondary,Secondary,A
+Male,19-21,"I Study 4 hours daily on average, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Primary,A
+Male,19-21,I Study 4 hours daily on average,Poor,Primary,college / University,A
+Male,19-21,I study more than 4 hours a day,lower-middle,Primary,Primary,A+
+Male,19-21,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Male,19-21,"I Study 4 hours daily on average, I prefer social media more than study",Mid - middle,college / University,college / University,A+
+Male,19-21,"I Study 4 hours daily on average, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,19-21,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,19-21,I Study 4 hours daily on average,lower-middle,Illiterate,Primary,A
+Male,19-21,I study only when there is exam,lower-middle,Secondary,Secondary,A-
+Female,19-21,I study only when there is exam,Mid - middle,college / University,college / University,B+
+Male,19-21,I Study 4 hours daily on average,lower-middle,Secondary,Secondary,A+
+Male,19-21,I study only when there is exam,lower-middle,college / University,college / University,A-
+Male,19-21,"I copy the assignment of friends, I study more than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,college / University,A+
+Male,19-21,I study more than 4 hours a day,Mid - middle,Secondary,college / University,A+
+Male,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Female,19-21,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Male,19-21,I Study 4 hours daily on average,lower-middle,Secondary,Secondary,A+
+Male,19-21,I am disturbed when studying,Mid - middle,college / University,college / University,A+
+Female,19-21,I prefer social media more than study,Mid - middle,Secondary,college / University,A+
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A
+Male,19-21,I copy the assignment of friends,Mid - middle,Primary,Illiterate,C
+Male,19-21,I study less than 4 hours a day,lower-middle,college / University,Secondary,A
+Male,19-21,I am disturbed when studying,lower-middle,Primary,college / University,A
+Female,19-21,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Female,19-21,"I copy the assignment of friends, I prefer social media more than study, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,<16,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Male,19-21,I study more than 4 hours a day,Mid - middle,Primary,Primary,A+
+Female,22-24,"I Study 4 hours daily on average, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,A+
+Female,19-21,"I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,A+
+Male,19-21,I study only when there is exam,lower-middle,Primary,Primary,A+
+Female,19-21,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Female,19-21,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,A+
+Male,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Female,19-21,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,A
+Female,22-24,"I am disturbed when studying, I study only when there is exam",Mid - middle,college / University,college / University,F
+Male,19-21,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Female,22-24,I study only when there is exam,lower-middle,Primary,Secondary,C+
+Female,19-21,"I am disturbed when studying, I prefer social media more than study, I study less than 4 hours a day",lower-middle,Primary,Primary,A+
+Female,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Female,19-21,I Study 4 hours daily on average,lower-middle,Primary,Secondary,B
+Male,19-21,"I study only when there is exam, I study more than 4 hours a day",Mid - middle,college / University,Secondary,A
+Male,19-21,I study only when there is exam,Poor,Secondary,Secondary,A
+Female,22-24,I prefer social media more than study,Mid - middle,college / University,college / University,A
+Female,19-21,I study only when there is exam,lower-middle,Secondary,Primary,A+
+Female,19-21,"I Study 4 hours daily on average, I am disturbed when studying",lower-middle,Primary,Secondary,C+
+Female,19-21,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Secondary,B+
+Male,19-21,I study less than 4 hours a day,Poor,Secondary,Primary,A
+Female,19-21,I study less than 4 hours a day,Mid - middle,Secondary,college / University,A
+Female,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,B
+Female,22-24,I study more than 4 hours a day,lower-middle,Secondary,college / University,A+
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Female,28-30,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A
+Male,22-24,"I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,B
+Male,22-24,I copy the assignment of friends,lower-middle,Secondary,college / University,A
+Male,22-24,I study less than 4 hours a day,lower-middle,college / University,Secondary,A-
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A-
+Male,19-21,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A
+Male,22-24,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,college / University,A+
+Male,22-24,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study",Mid - middle,college / University,college / University,A+
+Male,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A+
+Male,22-24,"I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,B+
+Female,19-21,I study more than 4 hours a day,lower-middle,college / University,college / University,A
+Male,19-21,I Study 4 hours daily on average,lower-middle,Secondary,college / University,A
+Male,19-21,I Study 4 hours daily on average,lower-middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,B
+Male,19-21,I study less than 4 hours a day,Mid - middle,college / University,college / University,A
+Female,22-24,"I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,A
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A
+Female,19-21,I study more than 4 hours a day,Mid - middle,college / University,college / University,A+
+Female,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,college / University,A-
+Female,22-24,"I copy the assignment of friends, I Study 4 hours daily on average, I am disturbed when studying, I prefer social media more than study",lower-middle,college / University,college / University,B
+Female,22-24,I study only when there is exam,Poor,Illiterate,Primary,B+
+Female,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Poor,college / University,college / University,C+
+Female,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A-
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,Illiterate,Illiterate,A+
+Male,19-21,"I prefer social media more than study, I study more than 4 hours a day",Mid - middle,Primary,college / University,A
+Male,28-30,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,college / University,B+
+Female,22-24,I Study 4 hours daily on average,lower-middle,Secondary,college / University,A
+Male,22-24,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Female,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A
+Male,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A-
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,Secondary,B+
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study",Mid - middle,Illiterate,Illiterate,B+
+Male,22-24,I Study 4 hours daily on average,Poor,Illiterate,Illiterate,A
+Male,22-24,I study only when there is exam,lower-middle,Illiterate,Secondary,A
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam, I study more than 4 hours a day",Mid - middle,Primary,Secondary,A-
+Male,22-24,I study less than 4 hours a day,Mid - middle,Secondary,college / University,A+
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Poor,Primary,Primary,B+
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Primary,Primary,B+
+Female,22-24,I study only when there is exam,Mid - middle,Primary,Secondary,A
+Male,22-24,I study only when there is exam,lower-middle,Primary,Secondary,A-
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,B+
+Male,22-24,I study more than 4 hours a day,Poor,Secondary,Primary,A
+Female,19-21,I study more than 4 hours a day,Rich,college / University,college / University,A+
+Male,22-24,I Study 4 hours daily on average,Poor,Secondary,Primary,A+
+Female,22-24,I prefer social media more than study,lower-middle,Secondary,Secondary,A
+Female,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A-
+Male,22-24,I study only when there is exam,lower-middle,Primary,Secondary,A-
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,B
+Male,22-24,I study only when there is exam,Mid - middle,Primary,Primary,B+
+Female,19-21,"I am disturbed when studying, I study more than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,Poor,Secondary,college / University,A-
+Male,22-24,I study less than 4 hours a day,lower-middle,Primary,Primary,A-
+Male,22-24,I study less than 4 hours a day,lower-middle,college / University,college / University,A+
+Female,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",lower-middle,Secondary,college / University,A
+Male,25-27,"I study only when there is exam, I study less than 4 hours a day",lower-middle,college / University,Secondary,B
+Male,22-24,I Study 4 hours daily on average,Poor,Secondary,college / University,B-
+Male,22-24,I study less than 4 hours a day,Mid - middle,Primary,Secondary,B
+Female,19-21,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,B-
+Male,19-21,"I am disturbed when studying, I prefer social media more than study",Mid - middle,Primary,Secondary,B
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,B
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A-
+Male,22-24,"I copy the assignment of friends, I study only when there is exam",lower-middle,Primary,Primary,A-
+Female,19-21,I study only when there is exam,Mid - middle,college / University,Secondary,B+
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,A
+Female,22-24,I study only when there is exam,Mid - middle,Secondary,college / University,A
+Female,19-21,I copy the assignment of friends,Mid - middle,Secondary,Secondary,A
+Female,19-21,I study less than 4 hours a day,Mid - middle,college / University,college / University,A
+Female,19-21,I study more than 4 hours a day,lower-middle,college / University,college / University,A
+Female,22-24,I study only when there is exam,lower-middle,Primary,Primary,B+
+Male,19-21,I study more than 4 hours a day,Mid - middle,college / University,college / University,A
+Male,19-21,I study only when there is exam,lower-middle,Secondary,college / University,B-
+Male,22-24,"I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Primary,A-
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,Primary,A
+Male,19-21,"I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Primary,A
+Female,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Secondary,A-
+Male,19-21,"I Study 4 hours daily on average, I study only when there is exam",Mid - middle,Secondary,Secondary,B
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,F
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,Primary,Secondary,A
+Female,22-24,I study only when there is exam,Mid - middle,Primary,college / University,A
+Female,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,A
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,B+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A-
+Male,22-24,"I copy the assignment of friends, I study only when there is exam, I study less than 4 hours a day",lower-middle,Secondary,college / University,A-
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,A
+Male,22-24,"I Study 4 hours daily on average, I study less than 4 hours a day",Poor,Secondary,college / University,A+
+Male,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,22-24,I study only when there is exam,lower-middle,Primary,Secondary,C+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,B
+Male,22-24,I study more than 4 hours a day,lower-middle,Illiterate,Primary,B+
+Male,25-27,I study only when there is exam,lower-middle,Illiterate,Illiterate,B
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,A+
+Male,22-24,I study less than 4 hours a day,Mid - middle,Primary,Primary,A
+Male,22-24,"I Study 4 hours daily on average, I prefer social media more than study",Mid - middle,Illiterate,Secondary,A
+Male,22-24,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,B
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,B
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,B
+Female,19-21,"I am disturbed when studying, I study less than 4 hours a day",Mid - middle,college / University,Primary,B
+Male,25-27,I Study 4 hours daily on average,Rich,college / University,college / University,A
+Male,22-24,I Study 4 hours daily on average,lower-middle,Secondary,college / University,A+
+Male,19-21,I study more than 4 hours a day,lower-middle,Secondary,Secondary,A
+Female,22-24,I Study 4 hours daily on average,Mid - middle,Secondary,Secondary,A
+Male,22-24,"I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Secondary,A+
+Male,<16,I study more than 4 hours a day,lower-middle,college / University,college / University,A+
+Male,22-24,I prefer social media more than study,lower-middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,A
+Male,19-21,I copy the assignment of friends,lower-middle,Secondary,college / University,A+
+Male,19-21,I copy the assignment of friends,Poor,Illiterate,Illiterate,A
+Male,22-24,I study more than 4 hours a day,Mid - middle,Secondary,Secondary,B+
+Male,22-24,I study only when there is exam,lower-middle,Illiterate,Illiterate,B
+Male,22-24,I Study 4 hours daily on average,Poor,Illiterate,Illiterate,B
+Male,19-21,I study more than 4 hours a day,Mid - middle,college / University,college / University,A
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A-
+Male,22-24,I study only when there is exam,lower-middle,Secondary,Secondary,B
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Female,19-21,I study more than 4 hours a day,Mid - middle,Primary,college / University,A+
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,A
+Female,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,A
+Male,19-21,I study less than 4 hours a day,Mid - middle,Primary,college / University,A+
+Male,22-24,I prefer social media more than study,lower-middle,Primary,Illiterate,A-
+Male,19-21,I study less than 4 hours a day,Mid - middle,Primary,college / University,A+
+Male,19-21,I study more than 4 hours a day,Mid - middle,Primary,college / University,A+
+Male,22-24,"I copy the assignment of friends, I study only when there is exam",Mid - middle,college / University,college / University,A
+Male,19-21,"I study only when there is exam, I study more than 4 hours a day",lower-middle,Primary,Primary,A
+Male,22-24,I study only when there is exam,Poor,Illiterate,Illiterate,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,Secondary,A-
+Male,19-21,I study more than 4 hours a day,lower-middle,Illiterate,Illiterate,A
+Male,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,A-
+Female,19-21,I prefer social media more than study,Poor,Illiterate,Illiterate,A-
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,A
+Male,22-24,"I Study 4 hours daily on average, I am disturbed when studying, I study more than 4 hours a day",Mid - middle,Primary,Primary,A
+Female,22-24,"I Study 4 hours daily on average, I am disturbed when studying",Mid - middle,college / University,college / University,A+
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Primary,A+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam",Mid - middle,college / University,Secondary,B
+Male,22-24,I Study 4 hours daily on average,lower-middle,Secondary,college / University,A
+Male,22-24,I prefer social media more than study,Mid - middle,Secondary,college / University,A-
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,A
+Male,22-24,I am disturbed when studying,lower-middle,college / University,Illiterate,B-
+Female,25-27,"I am disturbed when studying, I study more than 4 hours a day",lower-middle,Primary,Primary,A
+Female,22-24,I study less than 4 hours a day,Mid - middle,Secondary,Secondary,A
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,A
+Female,22-24,I study only when there is exam,lower-middle,college / University,college / University,A
+Female,22-24,"I prefer social media more than study, I study only when there is exam, I study more than 4 hours a day",Mid - middle,college / University,Secondary,A
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,college / University,college / University,A
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam",lower-middle,college / University,Secondary,A+
+Female,22-24,I study only when there is exam,lower-middle,college / University,college / University,A
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,19-21,I study only when there is exam,lower-middle,Secondary,college / University,A-
+Female,22-24,I Study 4 hours daily on average,Mid - middle,Secondary,Secondary,A-
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A
+Female,22-24,"I Study 4 hours daily on average, I study only when there is exam",lower-middle,college / University,Secondary,C+
+Female,19-21,I study only when there is exam,Mid - middle,Secondary,college / University,A
+Female,19-21,"I study only when there is exam, I study more than 4 hours a day",Poor,Primary,Primary,A+
+Male,22-24,I study only when there is exam,Mid - middle,college / University,Secondary,A+
+Male,19-21,"I prefer social media more than study, I study less than 4 hours a day",lower-middle,Primary,Illiterate,A
+Female,19-21,I Study 4 hours daily on average,Rich,college / University,college / University,B+
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A
+Female,22-24,I prefer social media more than study,Rich,college / University,college / University,B+
+Male,22-24,"I Study 4 hours daily on average, I study only when there is exam",Mid - middle,Primary,Primary,A
+Female,19-21,I Study 4 hours daily on average,Rich,college / University,college / University,B+
+Male,22-24,"I copy the assignment of friends, I study only when there is exam",Mid - middle,Secondary,Secondary,A-
+Male,22-24,I study less than 4 hours a day,lower-middle,Secondary,college / University,B
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",Mid - middle,college / University,college / University,B+
+Male,22-24,I study only when there is exam,Mid - middle,Secondary,Secondary,B+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Poor,Primary,college / University,B-
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",Poor,Primary,Primary,A
+Male,22-24,I study only when there is exam,lower-middle,Primary,Primary,A
+Male,22-24,I am disturbed when studying,Mid - middle,college / University,college / University,A+
+Male,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,A+
+Male,22-24,I prefer social media more than study,Mid - middle,college / University,college / University,A+
+Male,22-24,"I copy the assignment of friends, I study less than 4 hours a day",lower-middle,college / University,college / University,B
+Female,22-24,"I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A-
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,Secondary,B+
+Male,19-21,I study only when there is exam,lower-middle,Primary,Primary,A
+Male,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,B+
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,B+
+Male,19-21,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Secondary,B+
+Male,22-24,I study only when there is exam,lower-middle,Primary,Secondary,A
+Female,22-24,I study only when there is exam,Poor,Illiterate,Illiterate,B+
+Male,22-24,"I Study 4 hours daily on average, I study more than 4 hours a day",Mid - middle,college / University,college / University,A
+Male,25-27,"I study only when there is exam, I study more than 4 hours a day",lower-middle,Primary,Primary,A-
+Male,22-24,"I copy the assignment of friends, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Primary,B+
+Male,22-24,I study more than 4 hours a day,Rich,college / University,college / University,A
+Male,28-30,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Male,22-24,I study only when there is exam,Poor,Illiterate,Primary,B
+Female,22-24,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,college / University,college / University,B+
+Female,19-21,I study less than 4 hours a day,Mid - middle,college / University,college / University,A+
+Female,19-21,I study only when there is exam,Mid - middle,Secondary,Secondary,A
+Female,19-21,"I study only when there is exam, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A+
+Female,19-21,I study less than 4 hours a day,lower-middle,Secondary,college / University,A
+Female,22-24,"I copy the assignment of friends, I am disturbed when studying, I prefer social media more than study, I study only when there is exam",lower-middle,Primary,Secondary,A+
+Female,22-24,"I copy the assignment of friends, I study less than 4 hours a day",Mid - middle,college / University,college / University,A
+Female,19-21,I study more than 4 hours a day,Mid - middle,Primary,Secondary,A+
+Female,19-21,I study only when there is exam,lower-middle,Primary,Primary,A+
+Female,22-24,I am disturbed when studying,lower-middle,college / University,Secondary,A
+Female,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,25-27,"I prefer social media more than study, I study less than 4 hours a day",Mid - middle,Secondary,college / University,A
+Female,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Female,22-24,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A
+Male,22-24,I study only when there is exam,lower-middle,Secondary,college / University,A
+Male,22-24,I Study 4 hours daily on average,Poor,Illiterate,Illiterate,A-
+Female,19-21,I study only when there is exam,lower-middle,Illiterate,Illiterate,A+
+Male,22-24,I Study 4 hours daily on average,lower-middle,Primary,Primary,A
+Female,19-21,I study more than 4 hours a day,lower-middle,Secondary,college / University,A
+Female,19-21,I Study 4 hours daily on average,Mid - middle,Illiterate,Illiterate,A+
+Male,19-21,I Study 4 hours daily on average,Mid - middle,college / University,college / University,A+
+Female,19-21,I prefer social media more than study,Mid - middle,Secondary,Primary,A+
+Male,22-24,"I study only when there is exam, I study more than 4 hours a day",Mid - middle,Secondary,college / University,A
+Male,22-24,I Study 4 hours daily on average,Mid - middle,Secondary,college / University,A
+Female,19-21,I study only when there is exam,Mid - middle,Primary,Primary,A+
+Male,<16,I study more than 4 hours a day,Mid - middle,college / University,college / University,A+
+Female,19-21,I copy the assignment of friends,Poor,Secondary,Secondary,A
+Female,19-21,I Study 4 hours daily on average,lower-middle,Primary,Secondary,A+
+Male,19-21,"I prefer social media more than study, I study only when there is exam, I study less than 4 hours a day",lower-middle,Primary,Secondary,A+
+Male,<16,I study more than 4 hours a day,Mid - middle,Secondary,college / University,A+
+Female,22-24,I study only when there is exam,Mid - middle,Primary,Primary,A
+Male,>30,I study more than 4 hours a day,Poor,Primary,Primary,B+
+Female,19-21,I study more than 4 hours a day,lower-middle,Secondary,college / University,A+
+Male,28-30,I study more than 4 hours a day,lower-middle,Illiterate,Illiterate,B+
+Female,22-24,"I am disturbed when studying, I prefer social media more than study, I study more than 4 hours a day",lower-middle,Primary,Primary,A-
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam",lower-middle,Primary,Primary,B
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A-
+Male,22-24,"I copy the assignment of friends, I study only when there is exam",lower-middle,Secondary,college / University,B+
+Female,22-24,I study only when there is exam,Mid - middle,college / University,college / University,A-
+Male,22-24,I study only when there is exam,Poor,Primary,Secondary,A
+Male,22-24,"I am disturbed when studying, I study only when there is exam",lower-middle,Primary,Secondary,A-
+Male,22-24,I study only when there is exam,Poor,Primary,Primary,A+
+Male,22-24,"I copy the assignment of friends, I am disturbed when studying, I study only when there is exam, I study less than 4 hours a day",Mid - middle,Primary,college / University,A+
